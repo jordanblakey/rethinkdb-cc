@@ -1,0 +1,9 @@
+{
+  "name": "rethinkdb-cc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "rethinkdb": "^2.3.3"
+  }
+}
